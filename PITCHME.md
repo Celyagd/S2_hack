@@ -1,7 +1,7 @@
 ### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
 
 
-Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés
+<span style="font-size:1.0em;">Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés</span>
 
 6-7 Septembre 2017
 
@@ -18,7 +18,7 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 
 #### Hackathon, Data Sprint et Camp quelques exemples pour commencer...
 
----
+---?image=img/DMI_2013.png&size=cover
 
 #### Data sprint :
 
@@ -27,7 +27,9 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 1er Data Sprint « Data Sprint : The New Logistics of Short-form Method »
 
 <span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative WinterSchool2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
-![DMI](./img/DMI_2013.png)
+![DMI] (./img/DMI_2013.png)
+
+---?image=img/emaps_sprint.png&size=auto
 
 +++
 
