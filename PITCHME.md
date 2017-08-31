@@ -1,48 +1,48 @@
-### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
+#### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
 
-
-<span style="font-size:0.5em">
-
-Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés
+Colloque "Retours critiques sur les sociologies numériques"
 
 6-7 Septembre 2017
 
-*Session : Enquêtes et terrains numériques II : des ethnographies aux hackathons*
++++
+
+Session : Enquêtes et terrains numériques II : des ethnographies aux hackathons*
 
 Constance de Quatrebarbes (BnF, JailBreak) & Célya Gruson-Daniel (Costech/LabCMO)
 
-</span>
-
 ---
-
 
 ### Eléments de contexte
 
 Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numériques
 
-#### Hackathon, Data Sprint et Camp quelques exemples pour commencer...
 
----?image=img/DMI_2013.png&size=cover
+Hackathon, Data Sprint et Camp quelques exemples pour commencer...
 
+---
 #### Data sprint :
 
-- **Digital Methods Initiative** (Janvier 2013)
+**Digital Methods Initiative** (Janvier 2013)
 
 1er Data Sprint « Data Sprint : The New Logistics of Short-form Method »
 
 <span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative WinterSchool2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
+
++++?image=img/DMI_2013.png&size=90
+
 ![DMI] (./img/DMI_2013.png)
 
----?image=img/emaps_sprint.png&size=auto
+---
+#### Data sprint :
 
-+++
-
-- **EMAPS (Electronic Maps to Assist Public Science) Data sprint** (Janvier 2014)
+**EMAPS (Electronic Maps to Assist Public Science) Data sprint** (Janvier 2014)
 
 <span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
 ![DMI](./img/emaps_sprint.png)
 
 Rencontres interdisciplinaires / Projet Science-société (Venturini, Munk et Meunier, 2016)
+
++++?image=img/emaps_sprint.png&size=90
 
 ---
 
