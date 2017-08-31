@@ -1,7 +1,7 @@
 ### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
 
 
-<span style="font-size:1.0em;">Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés</span>
+<span style="font-size:0.9em">Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés</span>
 
 6-7 Septembre 2017
 
