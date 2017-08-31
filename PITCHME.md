@@ -1,4 +1,4 @@
-#### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
+### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
 
 Colloque "Retours critiques sur les sociologies numériques"
 
@@ -6,9 +6,10 @@ Colloque "Retours critiques sur les sociologies numériques"
 
 +++
 
-Session : Enquêtes et terrains numériques II : des ethnographies aux hackathons*
+Session : Enquêtes et terrains numériques II : des ethnographies aux hackathons
 
-Constance de Quatrebarbes (BnF, JailBreak) & Célya Gruson-Daniel (Costech/LabCMO)
+  - Constance de Quatrebarbes (BnF, JailBreak)
+  - Célya Gruson-Daniel (Costech/LabCMO)
 
 ---
 
@@ -17,7 +18,7 @@ Constance de Quatrebarbes (BnF, JailBreak) & Célya Gruson-Daniel (Costech/LabCM
 Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numériques
 
 
-Hackathon, Data Sprint et Camp quelques exemples pour commencer...
+**Hackathon, Data Sprint et Camp** quelques exemples pour commencer...
 
 ---
 #### Data sprint :
@@ -26,45 +27,40 @@ Hackathon, Data Sprint et Camp quelques exemples pour commencer...
 
 1er Data Sprint « Data Sprint : The New Logistics of Short-form Method »
 
-<span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative WinterSchool2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
+<span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative Winter School2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
 
-+++?image=img/DMI_2013.png&size=90
+---?image=img/DMI_2013.png&size=80
 
-![DMI] (./img/DMI_2013.png)
-
----
 #### Data sprint :
 
 **EMAPS (Electronic Maps to Assist Public Science) Data sprint** (Janvier 2014)
 
-<span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
-![DMI](./img/emaps_sprint.png)
-
 Rencontres interdisciplinaires / Projet Science-société (Venturini, Munk et Meunier, 2016)
 
-+++?image=img/emaps_sprint.png&size=90
+<span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
 
----
+---?image=img/emaps_sprint.png&size=80
 
 #### Hackathon :
 
-- **Center for Humanities (Wisconsin University)** (2012)
+**Center for Humanities (Wisconsin University)** (2012)
 
 « Humanities Hackathon : Computational Approaches to Cultural Analysis and Visualization ».  
 
-<span style="font-size:0.66em;color:#666;">*[Wisc Univerity ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
-![DMI](./img/wisc_hackathon.png)
-
 Familiarisation avec nouvelle méthode *(machine learning, network theory, topic modeling, advanced visualization and sound processing)*
 
-+++
 
-- 2016 : Hackathon Recherche République Numérique
+<span style="font-size:0.66em;color:#666;">*[Wisc Univerity ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
+
+---?image=img/wisc_hackathon.png&size=auto
+
+#### Hackathon :
+
+**Hackathon Recherche République Numérique** (Décembre 2015)
 
 <span style="font-size:0.66em;color:#666;">*[HackRepNum ](https://storify.com/HackYourPhd/hackrepnum)*</span>
-![HackRepNum](./img/hyphd_prez_repnum.png)
 
----
+---?image=img/hyphd_prez_repnum.png&size=auto
 
 #### THATCamp
 
@@ -75,48 +71,48 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 <span style="font-size:0.66em;color:#666;">*[THATCamp_France ](http://tcp.hypotheses.org/category/thatcamp-paris-2010)*</span>
 ![THATCamp_France](./img/Thatcamp_France.png)
 
----
+---?image=img/Thatcamp_France.png&size=60
 
-#### Caractéristiques communes de ces formats courts :
+
+#### Formats courts : caractéristiques communes
 
 
 - **Durée** : quelques jours (1 jour à 1 semaine)
-- **Mode projet** avec challenge (marathon, sprint)
-- **Travail en équipe** avec profils variés
+- **Mode projet** avec *challenge* (marathon, sprint)
+- **Travail en équipe** et profils variés
 - **Organisation libre**
 - Articulation **présentielle et en ligne**
 - **Philosophie "hack", "make"** (bidouille, créativité, et faire ensemble)
 
 ---
 
-### En sociologie : une mise en tension du "métier de sociologue"
+#### En sociologie : une mise en tension du "métier de sociologue"
 
-
-#### Le métier de sociologue :
+Le métier de sociologue
 
 - **Temps long** de la recherche et de la  construction des objets d'étude
 - **Nécessité de distanciation** des acteurs du terrain et de la figure de l'expert (garantie de liberté et d'autonomie)
 
 
 <span style="font-size:0.66em;color:#666;">*[ ](http://yogeekons.tumblr.com/post/160083879865/le-chercheur-trouve-une-d%C3%A9finition-claire-de)*</span>
-![Yogeekons_Uhalde](./img/Uhalde_quote.png)
+![Yogeekons_Uhalde](./img/Uhalde_quote.png&size=auto)
 (Bourdieu Pierre, Chamboredon Jean-Claude et Passeron Jean-Claude, 1983)
 
 +++
 
-#### Formats courts : une utopie technicienne
+#### Formats courts : une utopie technicienne ?
 
-- Production limitée dans un temps court.
+- Production limitée dans un temps court
 - Qualité des connaissances produites
 - Réorganisation au sein de la sociologie ?
 
 ---
 
-### Formats courts : des tensions aux inter-médiations ?
+#### Formats courts : des tensions aux inter-médiations ?
 
-- Que provoquent ces formats courts en sociologie ?
-- Quelles tensions révèlent-ils dans ce contexte numérique ?  
-- Quelles adaptations au numérique peuvent-ils permettre d'accompagner en sociologie ?
+  - Que provoquent ces formats courts en sociologie ?
+  - Quelles tensions révèlent-ils dans ce contexte numérique ?  
+  - Quelles adaptations au numérique peuvent-ils permettre d'accompagner en sociologie ?
 
 ==> *Comment ces formats courts questionnent-ils et participent-ils aux évolutions de la pratique sociologique en contexte numérique ?*
 
@@ -124,34 +120,40 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 
 #### Appuis théoriques : Numérique & Recompositions
 
+---
+
 #### Sociologie du Web/Numérique  :
 
-  - Effet pervasif du numérique : "amplificateur et accélérateur de tendances" (Boullier 2016)
-  - Effet de levier pour réorganisations sociales, économiques, politiques, etc. (Proulx, 2005)
-  - Utopies/Dystopies et imaginaires numériques (Loveluck, 2015 ; Turner 2012)
+- Effet pervasif du numérique : "amplificateur et accélérateur de tendances" <span style="font-size:0.66em">(Boullier 2016)</span>
+- Effet de levier pour réorganisations sociales, économiques, politiques, etc. <span style="font-size:0.66em">(Proulx, 2005)</span>
+- Utopies/Dystopies et imaginaires numériques <span style="font-size:0.66em">(Loveluck, 2015 ; Turner 2012)</span>
 
 ---
 
-#### Anthropologie des connaissances (Numérique & SHS)
+#### Anthropologie des connaissances
 
+Numérique & SHS
 
-- Data & SHS : anthropologie des connaissances (Jaton et Vinck, 2016)
-- Recherches numériques (Plantin, Monnoyer-Smith, 2013)
+  - Data & SHS : datafication, collectivisation <span style="font-size:0.66em">(Jaton et Vinck, 2016)</span>
+  - Recherches numériques <span style="font-size:0.66em">(Plantin, Monnoyer-Smith, 2013)</span>
 
 ==> transformation des pratiques, des objets de recherche mais aussi des collectifs de recherche
 
 ---
 
-#### Comprendre les processus à l'oeuvre :
+#### Comprendre les processus à l'oeuvre
 
-- Intégration/ Institutionalisation des pratiques/conceptions issu de l'informatique au sein d'autres disciplines :
-    - Open et entreprise (FLOSS) ; Open et Administration (Open Data)
-    - FabLabs : principe de *soft hacking* (processus d'institutionalisation)
+Intégration/ Institutionalisation des pratiques/conceptions issu de l'informatique au sein d'autres disciplines
 
 
-+++
+    - Open et entreprise (FLOSS) ; Open et Administration (Open Data)<span style="font-size:0.66em">(REF)</span>
+    - FabLabs : principe de *soft hacking* (processus d'institutionalisation)<span style="font-size:0.66em">(REF)</span>
 
-- Adoption/adaptation et processus d'inter-médiations
+---
+#### Comprendre les processus à l'oeuvre
+
+Adoption/adaptation et processus d'inter-médiations <span style="font-size:0.66em">(REF)</span>
+
   - intermédiations : rencontres entre plusieurs mondes
   - médiations : exploration commune (traduction et compréhension mutuelle )
   - rôle d'agents mais aussi des espaces et des dispositifs
@@ -160,11 +162,13 @@ Les formats courts dispositifs de soft hacking ?
 
 ---
 
-### Methodologie et temps de l'article :
+#### Methodologie et temps de l'article
 
-#### Brève généalogie de ces formats courts :
+---
 
-Recherche documentaire et appui sur acteurs du milieu (implémentation en France)
+#### Brève généalogie des formats courts
+
+Recherche documentaire et enquête auprès d'acteurs du milieu (début en France)
 
 ==>  mise en avant des modes de pensées et d'organisation à l'origine de ces formats
 
@@ -172,28 +176,30 @@ Recherche documentaire et appui sur acteurs du milieu (implémentation en France
 
 #### Exploration de trois mises en tension en sociologie
 
-Approche ethnographique  : obervation participante/participation observante
+**Approche ethnographique**  : obervation participante/participation observante
 
 - rapport aux temps de la recherche
 - rapport à la production des savoirs
 - rapport à la technique et au collectif de recherche
 
-==> cas d'étude principal du hackathon République Numérique
+==> Cas d'étude principal : Hackathon République Numérique #HackRepNum
 
 ---
 
-### Brève généalogie de ces formats court
+### Brève généalogie des formats court
+
+---
 
 #### Les "Ancêtres"
 
-- **Association for Computing Machinery** (1974)
+
+**Association for Computing Machinery** (1974)
 
 <span style="font-size:0.66em;color:#666;">*[International Collegiate Programming Contest ]()*</span>
-![ACM_ICPC](./img/ACM-ICPC-1978.png)
 
----
+---?image=img/ACM-ICPC-1978.png&size=60
 
-- **Scene Demo and LAN Party (Local Area Network)**
+**Scene Demo and LAN Party (Local Area Network)**
 
 ![Assembly04](./img/assembly04_wiki.png)
 
