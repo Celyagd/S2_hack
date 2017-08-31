@@ -1,13 +1,17 @@
 ### Du hack et des sprints en sociologie(s) ? Des tensions aux inter-médiations en contexte numérique
 
 
-<span style="font-size:0.9em">Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés</span>
+<span style="font-size:0.5em">
+
+Colloque "Retours critiques sur les sociologies numériques" Numéro spécial Sociologie et Sociétés
 
 6-7 Septembre 2017
 
 *Session : Enquêtes et terrains numériques II : des ethnographies aux hackathons*
 
 Constance de Quatrebarbes (BnF, JailBreak) & Célya Gruson-Daniel (Costech/LabCMO)
+
+</span>
 
 ---
 
