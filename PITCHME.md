@@ -21,7 +21,11 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 **Hackathon, Data Sprint et Camp** quelques exemples pour commencer...
 
 ---
-#### Data sprint :
+### Data sprint
+
+---
+
+![Datasprint](img/DMI_2013.png)
 
 ---
 
@@ -31,39 +35,40 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 
 <span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative Winter School2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
 
----?image=img/DMI_2013.png&size=40
-
 ---
 
+![Emaps](img/emaps_sprint.png)
+
+---
 **EMAPS** (*Electronic Maps to Assist Public Science*) **Data sprint** (Janvier 2014)
 
 Rencontres interdisciplinaires / Projet Science-société <span style="font-size:0.66em">(Venturini, Munk et Meunier, 2016)</span>
 
 <span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
 
----?image=img/emaps_sprint.png&size=40
 ---
 
-#### Hackathon :
-
----
-
----?image=img/wisc_hackathon.png&size=auto
+### Hackathon :
 
 ---
 
-**Center for Humanities (Wisconsin University)** (2012)
+![Wisc](img/wisc_hackathon.png)
+
+---
+
+**Center for Humanities** (Wisconsin University) (2012)
 
 « Humanities Hackathon : Computational Approaches to Cultural Analysis and Visualization ».  
 
-Familiarisation avec nouvelle méthode *(machine learning, network theory, topic modeling, advanced visualization and sound processing)*
+- Familiarisation avec nouvelle méthode *(machine learning, network theory, topic modeling, advanced visualization and sound processing)*
 
 
 <span style="font-size:0.66em;color:#666;">*[Wisc Univerity ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
 
 ---
 
----?image=img/hyphd_prez_repnum.png&size=60
+-
+![Hackrepnum](./img/hyphd_prez_repnum.png)
 
 ---
 
@@ -74,19 +79,18 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 
 ---
 
-#### THATCamp
+### THATCamp
 
 ---
 
-- 2008 : 1er THATCamp inspiré des Barcamp
+- 2008 : 1er THATCamp inspiré des *Barcamp*
 - 2010 : THATCamp en France : manifeste des Humanités Numériques
 
 <span style="font-size:0.66em;color:#666;">*[THATCamp_France ](http://tcp.hypotheses.org/category/thatcamp-paris-2010)*</span>
-![THATCamp_France](./img/Thatcamp_France.png)
 
 ---
 
----?image=img/Thatcamp_France.png&size=50
+![THATCamp_France](./img/Thatcamp_France.png)
 
 ---
 
@@ -110,21 +114,13 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 
 <span style="font-size:0.66em">Le métier de sociologue (Bourdieu Pierre, Chamboredon Jean-Claude et Passeron Jean-Claude, 1983)</span>
 
---
+---
 
 <span style="font-size:0.66em;color:#666;">*[ ](http://yogeekons.tumblr.com/post/160083879865/le-chercheur-trouve-une-d%C3%A9finition-claire-de)*</span>
+
+---
+
 ![Yogeekons_Uhalde](./img/Uhalde_quote.png)
-
----
----?image=img/Uhalde_quote.png&size=60
-
----
-
-#### Formats courts : une utopie technicienne ?
-
-- Production limitée dans un temps court
-- Qualité des connaissances produites
-- Réorganisation au sein de la sociologie ?
 
 ---
 
@@ -152,7 +148,7 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 
 #### Numérique & SHS
 
-  - Data & SHS : datafication, collectivisation <span style="font-size:0.66em">(Jaton et Vinck, 2016)</span>
+  - Data & SHS : datafication, collectivisation <span style="font-size:0.66em">(Jaton et Vinck, 2016 ; Bastin & Francony, 2016)</span>
   - Recherches numériques <span style="font-size:0.66em">(Plantin, Monnoyer-Smith, 2013)</span>
 
 ==> transformation des pratiques, des objets de recherche mais aussi des collectifs de recherche
@@ -161,18 +157,20 @@ Familiarisation avec nouvelle méthode *(machine learning, network theory, topic
 
 #### Comprendre les processus à l'oeuvre
 
-- Intégration/ Institutionalisation des pratiques/conceptions issu de l'informatique au sein d'autres disciplines
+- Intégration/ Institutionalisation des pratiques/conceptions issues de l'informatique au sein d'autres disciplines
 
-  - Open et entreprise (FLOSS) ; Open et Administration (Open Data) <span style="font-size:0.66em">(REF)</span>
-  - FabLabs : principe de *soft hacking* (processus d'institutionalisation) <span style="font-size:0.66em">(REF)</span>
+  - Open et entreprise (FLOSS) <span style="font-size:0.66em">(Demazière, Horn, & Zune, 2013 ; Broca 2013)</span> ; Open et Administration (Open Data) <span style="font-size:0.66em">(Denis & Goëta, 2013 )</span>
+  - FabLabs : principe de *soft hacking* (processus d'institutionalisation) <span style="font-size:0.66em">(Lhoste & Barbier, 2016)</span>
 
 ---
 
-- Adoption/adaptation et processus d'inter-médiations <span style="font-size:0.66em">(REF)</span>
+#### Adoption/adaptation et processus d'inter~médiations
 
-  - intermédiations : rencontres entre plusieurs mondes
-  - médiations : exploration commune (traduction et compréhension mutuelle )
-  - rôle d'agents mais aussi des espaces et des dispositifs
+<span style="font-size:0.66em">(Vinck, 1999 ; Schlierf & Meyer, 2013 ; Meyer 2010)</span>
+
+  - Intermédiations : rencontres entre plusieurs mondes
+  - Médiations : exploration commune (traduction et compréhension mutuelle )
+  - Rôle d'agents mais aussi des espaces et des dispositifs
 
 ==> Les formats courts dispositifs de *soft hacking* ?
 
@@ -194,11 +192,24 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 **Approche ethnographique**  : obervation participante/participation observante
 
+==> Cas d'étude principal : Hackathon République Numérique #HackRepNum
+
+---
+
+#### Formats courts : une utopie technicienne ?
+
+- Production limitée dans un temps court
+- Qualité des connaissances produites
+- Rapport au collectif en sociologie
+-
+---
+
+#### 2- Exploration de trois mises en tension en sociologie
+
 - rapport aux temps de la recherche
 - rapport à la production des savoirs
 - rapport à la technique et au collectif de recherche
 
-==> Cas d'étude principal : Hackathon République Numérique #HackRepNum
 
 ---
 
@@ -218,7 +229,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 - **Scene Demo and LAN Party (Local Area Network)**
 
 
----?image=img/assembly04_wiki.png&size=60)
+---?image=img/assembly04_wiki.png&size=60
 
 ---
 
@@ -231,7 +242,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 ---
 
 
-Open BSD : Ambiance Hackathon "sit down and code"
+**Open BSD** : Ambiance Hackathon "sit down and code"
 
 <span style="font-size:0.66em;color:#666;">*[Open BSD ](ARAJOUTER)*</span>
 ![Def_hackathon](./img/hackahton_open_BSD.png)
@@ -250,40 +261,34 @@ Open BSD : Ambiance Hackathon "sit down and code"
 
 ----
 
----?image=img/hackathon_openBSD_tshirt.png&size=50
-
----
-
-#### 1999 : Premiers Hackathons
-
----?image=img/sun_micro_1999.png&size=60
-
----
+**Sun Microsystem** (San Francisco)
 
 Conférence Java One
 
 <span style="font-size:0.66em;color:#666;">*[Wayback Machine Sun Microsystem](ARAJOUTER)*</span>
 
+---?image=img/sun_micro_1999.png&size=60
+
 ---
 
 #### 2000-... : Généralisation dans les milieux informatiques
 
-**Sprint et méthodologies agiles**
+- **Sprint et méthodologies agiles**
 
 Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
----
-<span style="font-size:0.66em;color:#666;">*[Agile manifesto](ARAJOUTER)*</span>
+<span style="font-size:0.66em;color:#666;">*[Agile manifesto](http://agilemanifesto.org/)*</span>
+
 
 ---?image=img/agile_manifesto.png&size=60
 ---
 
 #### 2000-... : Généralisation dans les milieux informatiques
 
-- cycle court et mini-objectifs
-- valeurs : logiciels operationnels, interaction avant résultats, collaboration, flexibilité
+- Cycles courts et mini-objectifs
+- Valeurs : logiciels opérationnels, interaction avant résultats, collaboration, flexibilité
 
-==> Hackathon, sprint : nouvelle méthode et libération pratiques industrielles (agile vs cycle V)
+==> Hackathon, sprint : nouvelle méthode et libération des pratiques industrielles (agile vs cycle V) <span style="font-size:0.66em">(Boltanski & Chiapello, 1999)</span>
 
 ---
 
@@ -292,9 +297,9 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 - Distanciation de l'objet technologique
 - Evènements thématiques <span style="font-size:0.66em">(Briscoe et Mulligan,
 2014)</span>
-- Diversification des formats : milieu Start-up
-  - 2006 : 1er BarCamps
-  - Autres noms tombés en désuétude :  Yullbiz
+- Diversification des formats : milieu *start-up*
+  - 2006 1er BarCamps
+  - Autres noms tombés en désuétude : Yullbiz, Mashpit, etc.
 
 ---
 
@@ -303,7 +308,6 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 **#HackThePress** (2010)
 
 <span style="font-size:0.66em;color:#666;">*[Owni.fr](http://owni.fr/2010/09/27/battle-hackthepress-design-technologie-journalisme/index.html)*</span>
-![hackthepress](./img/hackthepress_owni.png)
 
 ---?image=img/hackthepress_owni.png&size=50
 
@@ -313,19 +317,15 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 **#HackingParis2024** (2016)
 
 <span style="font-size:0.66em;color:#666;">*[Owni.fr](https://www.hackinghoteldeville.paris/fr/)*</span>
-![hackinghoteldeville](./img/hacking_hotel_ville.png)
 
 ---?image=img/hacking_hotel_ville.png&size=50
 
 ---
 #### Notre préféré !
 
-<span style="font-size:0.66em;color:#666;">*[Owni.fr](https://motherboard.vice.com/fr/article/a3zn74/au-coeur-de-linnovation-stupide-avec-les-participants-du-premier-hackacon-de-paris)*</span>
+<span style="font-size:0.66em;color:#666;">*[Hackacon Paris ](https://motherboard.vice.com/fr/article/a3zn74/au-coeur-de-linnovation-stupide-avec-les-participants-du-premier-hackacon-de-paris)*</span>
 ![hackacon](./img/hackacon.png)
 
-+++
-
-Quelques exemples de projets proposés : Plâtrer la fracture numérique, la startup à l'heure du fax.
 
 ---
 #### En Recherche :
@@ -336,7 +336,7 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 ![brainhack](./img/brainhack.png)
 
 
----?image=img/brainhack.png&size=auto
+---?image=img/brainhack.png&size=30
 
 ---
  **#HackRepNum** (Décembre 2015)
@@ -363,8 +363,8 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 
 - **Une préparation longue en amont** :
 
-  - invisibilisation des étapes de fabrication/préparation de données : *datafication*
-  - Négociation pour mettre en ligne les données de la consultation Etalab
+  - Invisibilisation des étapes de fabrication/préparation de données : *datafication* <span style="font-size:0.66em">(Jaton et Vinck, 2016 ; Bastin & Francony, 2016)</span>
+  - Négociations pour mettre en ligne les données de la consultation Etalab
 
 ==> réseau socio-technique à l'oeuvre pour l'organisation et la mise en oeuvre d'un tel évènement : rencontre entre plusieurs mondes
 
@@ -372,7 +372,7 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 
 #### 2- Rapport aux savoirs et à leurs productions
 
-- **#HackRepNum :** Rencontre de profils variés (chercheurs, juristes, membres d'association, gouvernement, designer, journalistes, etc.)
+- **#HackRepNum :** rencontre de profils variés (chercheurs, juristes, membres d'association et du gouvernement, *designer*, journalistes, etc.)
 
 - **Tensions :** rôle d'expertise, indépendance du chercheur, qualité des connaisances produites et diffusées en ligne
 
@@ -381,10 +381,10 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 #### 2- D’autres sociologies sont possibles
 
 - **Dans la lignée des postures participatives** :
-  - Science en société <span style="font-size:0.66em">(Bonneuil, Joly, 20)</span>
+  - Science en société <span style="font-size:0.66em">(Bonneuil, Joly, 2013)</span>
   - Production de savoirs orientés vers l'action <span style="font-size:0.66em">(Pestre, 2003)</span>
 
-==> aide à des projets de recherche, d'une relation science et société à une science en société  (autre exemple EMAPS)
+==> projets de recherche interdisciplinaires sur des controverses ( exemple EMAPS)
 
 ---
 
@@ -394,12 +394,11 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 
 - **Tensions :** nouveau positivisme et quantophrénie
 
-
----?image=img/CC-BY-SA-CFritz.jpg&size=auto
-
+---
+![HackRepNum](img/CC-BY-SA-CFritz.jpg)
 ---
 
-- **Tensions :** Collectivisation <span style="font-size:0.66em">(Jaton & Vinck))</span> : travail collectif en SHS
+- **Tensions :** Collectivisation <span style="font-size:0.66em">(Jaton & Vinck)</span> : travail collectif en SHS
 
 ==> transformation rapport profils techniques et sociologues, rapport hiérarchique et autorité
 
@@ -409,31 +408,30 @@ Quelques exemples de projets proposés : Plâtrer la fracture numérique, la sta
 
 
 - Un moyen d'éprouver les data :  
-  - médiations par le faire
-  - prise de conscience de l'effet whaouu des donnés
+  - médiations par le "faire"
+  - prise de conscience de l'effet *whaouu* des donnés
 
-==> Formations aux méthodes numériques, lieu d'exploration, d'apprentissage et d'habilitation aux données exploration des méthodes numériques par le "faire"
+==> Espaces d'exploration, d'apprentissage et d'habilitation aux données
 
 ---
-
 
 ### Conclusion
 
 ---
 
-#### Ouverture critique du sociologue
+#### Une "ouverture critique" du sociologue
 
-- Apport du regard critique du sociologue "ouverture critique" (Proulx 1984)
+- Apport du regard critique du sociologue
 
-<span style="font-size:0.66em;color:#666;">*[Proulx S., 1984, « Présentation : L’informatisation : mutation technique, changement de société? », Sociologie et sociétés, 16, 1, p. 3‑12.  ](http://yogeekons.tumblr.com/search/informatisation)*</span>
+<span style="font-size:0.66em;color:#666;">*[Proulx S., 1984, « Présentation : L’informatisation : mutation technique, changement de société ? », Sociologie et sociétés, 16, 1, p. 3‑12.  ](http://yogeekons.tumblr.com/search/informatisation)*</span>
 
 ---?image=img/Proulx_quote.png&size=auto
 
 ---
-#### Retour sur le numéro sociologies numériques critiques
+#### Retour sur le numéro "sociologies numériques critiques"
 
 
-Sociologie & Sociétés ==> Sociologie*S* et sociétéS
+Sociologie & SociétéS ==> Sociologie*S* et sociétéS
 
 - Evolution des postures de recherche
 
@@ -444,8 +442,9 @@ Sociologie & Sociétés ==> Sociologie*S* et sociétéS
 #### Perspectives et questionnements
 
 - Notion de dispositif ?
-- Méthodologie (attente de critiques)
-- Propre posture de recherche et implication  
+- Méthodologie (attente des critiques)
+- Structure de l'article (deux parties)
+- Notre propre posture de recherche et implication  
 
 ---
 
@@ -456,9 +455,8 @@ Sociologie & Sociétés ==> Sociologie*S* et sociétéS
 <span style="font-size:0.66em;color:#666;">*[Trumpocalypse  ](http://rossgoodwin.com/trumpocalypse/)*</span>
 ![Proulx_quote](./img/trumpocalypse.png)
 
----?image=img/trumpocalypse.png&size=60
 ---
 <span style="font-size:0.66em;color:#666;">*[Hypochondriapp ](http://hypochondriapp.io/)*</span>
-![Proulx_quote](./img/hypochondriapp.png)
+![hypochondriapp](./img/hypochondriapp.png)
+
 ---
----?image=img/hypochondriapp.png&size=60
