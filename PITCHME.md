@@ -48,7 +48,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 ---
 
-### Hackathon :
+### Hackathon
 
 ---
 
@@ -113,10 +113,6 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 - **Nécessité de distanciation** des acteurs du terrain et de la figure de l'expert (garantie de liberté et d'autonomie)
 
 <span style="font-size:0.66em">Le métier de sociologue (Bourdieu Pierre, Chamboredon Jean-Claude et Passeron Jean-Claude, 1983)</span>
-
----
-
-<span style="font-size:0.66em;color:#666;">*[ ](http://yogeekons.tumblr.com/post/160083879865/le-chercheur-trouve-une-d%C3%A9finition-claire-de)*</span>
 
 ---
 
@@ -194,7 +190,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 ==> Cas d'étude principal : Hackathon République Numérique #HackRepNum
 
----
++++
 
 #### Formats courts : une utopie technicienne ?
 
@@ -206,9 +202,9 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 #### 2- Exploration de trois mises en tension en sociologie
 
-- rapport aux temps de la recherche
-- rapport à la production des savoirs
-- rapport à la technique et au collectif de recherche
+- Temps de la recherche
+- Production des savoirs
+- Technique et collectif de recherche
 
 
 ---
@@ -226,7 +222,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 <span style="font-size:0.66em;color:#666;">*[International Collegiate Programming Contest ]()*</span>
 
-- **Scene Demo and LAN Party (Local Area Network)**
+- **Scene Demo and LAN Party** (Local Area Network)
 
 
 ---?image=img/assembly04_wiki.png&size=60
@@ -316,9 +312,11 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 **#HackingParis2024** (2016)
 
-<span style="font-size:0.66em;color:#666;">*[Owni.fr](https://www.hackinghoteldeville.paris/fr/)*</span>
+<span style="font-size:0.66em;color:#666;">*[HackingParis](https://www.hackinghoteldeville.paris/fr/)*</span>
 
----?image=img/hacking_hotel_ville.png&size=50
+---
+
+![HackingParis](img/hacking_hotel_ville.png)
 
 ---
 #### Notre préféré !
@@ -333,10 +331,8 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 - HackingEbola, Brainhack, etc.
 
 <span style="font-size:0.66em;color:#666;">*[Brainhack.org](http://www.brainhack.org/)*</span>
+
 ![brainhack](./img/brainhack.png)
-
-
----?image=img/brainhack.png&size=30
 
 ---
  **#HackRepNum** (Décembre 2015)
@@ -458,5 +454,3 @@ Sociologie & SociétéS ==> Sociologie*S* et sociétéS
 ---
 <span style="font-size:0.66em;color:#666;">*[Hypochondriapp ](http://hypochondriapp.io/)*</span>
 ![hypochondriapp](./img/hypochondriapp.png)
-
----
