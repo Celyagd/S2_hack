@@ -60,7 +60,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 « Humanities Hackathon : Computational Approaches to Cultural Analysis and Visualization ».  
 
-- Familiarisation avec nouvelle méthode *(machine learning, network theory, topic modeling, advanced visualization and sound processing)*
+- Familiarisation avec de nouvelles méthodes <small>*(machine learning, network theory, topic modeling, advanced visualization and sound processing)*</small>
 
 
 <span style="font-size:0.66em;color:#666;">*[Wisc Univerity ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
