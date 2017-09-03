@@ -63,7 +63,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 - Familiarisation avec de nouvelles méthodes <small>*(machine learning, network theory, topic modeling, advanced visualization and sound processing)*</small>
 
 
-<span style="font-size:0.66em;color:#666;">*[Wisc Univerity ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
+<span style="font-size:0.66em;color:#666;">*[Wisc University ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
 
 ---
 
@@ -83,14 +83,14 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 ---
 
+![THATCamp_France](./img/Thatcamp_France.png)
+
+---
+
 - 2008 : 1er THATCamp inspiré des *Barcamp*
 - 2010 : THATCamp en France : manifeste des Humanités Numériques
 
 <span style="font-size:0.66em;color:#666;">*[THATCamp_France ](http://tcp.hypotheses.org/category/thatcamp-paris-2010)*</span>
-
----
-
-![THATCamp_France](./img/Thatcamp_France.png)
 
 ---
 
@@ -130,7 +130,9 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 ---
 
-#### Appuis théoriques : Numérique & Recompositions
+#### Appuis théoriques :
+
+##### Le numérique et ses recompositions
 
 ---
 
@@ -153,9 +155,10 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 #### Comprendre les processus à l'oeuvre
 
-- Intégration/ Institutionalisation des pratiques/conceptions issues de l'informatique au sein d'autres disciplines
+<p class="left"> Intégration/ Institutionalisation des pratiques/conceptions issues de l'informatique au sein d'autres disciplines</p>
 
-  - Open et entreprise (FLOSS) <span style="font-size:0.66em">(Demazière, Horn, & Zune, 2013 ; Broca 2013)</span> ; Open et Administration (Open Data) <span style="font-size:0.66em">(Denis & Goëta, 2013 )</span>
+  - Open et entreprise (FLOSS) <span style="font-size:0.66em">(Demazière, Horn, & Zune, 2013 ; Broca 2013)</span>
+  - Open et administration (Open Data) <span style="font-size:0.66em">(Denis & Goëta, 2013 )</span>
   - FabLabs : principe de *soft hacking* (processus d'institutionalisation) <span style="font-size:0.66em">(Lhoste & Barbier, 2016)</span>
 
 ---
