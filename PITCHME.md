@@ -218,7 +218,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 ---
 
-![ACM](.img/ACM-ICPC-1978.png)
+![ACM](./img/ACM-ICPC-1978.png)
 
 ---
 
