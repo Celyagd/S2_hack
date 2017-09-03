@@ -169,8 +169,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
   - Intermédiations : rencontres entre plusieurs mondes
   - Médiations : exploration commune (traduction et compréhension mutuelle )
-  - Rôle d'agents mais aussi des espaces et des dispositifs
-
+  -
 ==> Les formats courts dispositifs de *soft hacking* ?
 
 ---
@@ -216,6 +215,10 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 
 ---?image=img/ACM-ICPC-1978.png&size=60
+
+---
+
+![ACM](.img/ACM-ICPC-1978.png)
 
 ---
 
