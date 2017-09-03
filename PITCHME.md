@@ -155,7 +155,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 #### Comprendre les processus à l'oeuvre
 
-<p class="left"> Intégration/ Institutionalisation des pratiques/conceptions issues de l'informatique au sein d'autres disciplines</p>
+<p style="text-align:left"> Intégration/ Institutionalisation des pratiques/conceptions issues de l'informatique au sein d'autres disciplines</p>
 
   - Open et entreprise (FLOSS) <span style="font-size:0.66em">(Demazière, Horn, & Zune, 2013 ; Broca 2013)</span>
   - Open et administration (Open Data) <span style="font-size:0.66em">(Denis & Goëta, 2013 )</span>
