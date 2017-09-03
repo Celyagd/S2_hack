@@ -218,17 +218,13 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 ---
 
-![ACM](./img/ACM-ICPC-1978.png)
-
----
-
 #### Les "Ancêtres"
 
 - **Association for Computing Machinery** (1974)
 
 <span style="font-size:0.66em;color:#666;">*[International Collegiate Programming Contest ]()*</span>
 
-- **Scene Demo and LAN Party** (Local Area Network)
+- **Scene Demo and LAN Party** (Local Area Network) (DATE)
 
 
 ---?image=img/assembly04_wiki.png&size=60
@@ -300,7 +296,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 - Evènements thématiques <span style="font-size:0.66em">(Briscoe et Mulligan,
 2014)</span>
 - Diversification des formats : milieu *start-up*
-  - 2006 1er BarCamps
+  - 2006 : 1er BarCamps
   - Autres noms tombés en désuétude : Yullbiz, Mashpit, etc.
 
 ---
@@ -334,7 +330,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 ---
 #### En Recherche :
 
-- HackingEbola, Brainhack, etc.
+<p style="text-align:left">HackingEbola, Brainhack, etc.</p>
 
 <span style="font-size:0.66em;color:#666;">*[Brainhack.org](http://www.brainhack.org/)*</span>
 
@@ -356,14 +352,14 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 #### 1-Rapport au temps
 
-- **#HackRepNum :** une journée d'évènement (présentation, constitution des équipes, travail en groupe, présentations des résultats en fin de journée)
+- **#HackRepNum :** une journée d'évènement <small>(présentation, constitution des équipes, travail en groupe, présentations des résultats en fin de journée)</small>
 
 - **Tensions :** méthode accélérée versus *slow science*
 
 ---
 #### 1- De l’effet sprint à la course de fond
 
-- **Une préparation longue en amont** :
+<p style="text-align:left"> **Une préparation longue en amont** :</p>
 
   - Invisibilisation des étapes de fabrication/préparation de données : *datafication* <span style="font-size:0.66em">(Jaton et Vinck, 2016 ; Bastin & Francony, 2016)</span>
   - Négociations pour mettre en ligne les données de la consultation Etalab
@@ -374,7 +370,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 #### 2- Rapport aux savoirs et à leurs productions
 
-- **#HackRepNum :** rencontre de profils variés (chercheurs, juristes, membres d'association et du gouvernement, *designer*, journalistes, etc.)
+- **#HackRepNum :** rencontre de profils variés <small>(chercheurs, juristes, *data scientists*, développeurs, membres d'association et du gouvernement, *designer*, journalistes, etc.)</small>
 
 - **Tensions :** rôle d'expertise, indépendance du chercheur, qualité des connaisances produites et diffusées en ligne
 
@@ -382,7 +378,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 #### 2- D’autres sociologies sont possibles
 
-- **Dans la lignée des postures participatives** :
+<p style="text-align:left"> **Dans la lignée des postures participatives** :</p>
   - Science en société <span style="font-size:0.66em">(Bonneuil, Joly, 2013)</span>
   - Production de savoirs orientés vers l'action <span style="font-size:0.66em">(Pestre, 2003)</span>
 
@@ -409,7 +405,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 #### 3- Collectif de recherche recomposé autour des data
 
 
-- Un moyen d'éprouver les data :  
+<p style="text-align:left"> Un moyen d'éprouver les data :</p>
   - médiations par le "faire"
   - prise de conscience de l'effet *whaouu* des donnés
 
