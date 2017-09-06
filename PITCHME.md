@@ -20,14 +20,15 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 
 **Hackathon, Data Sprint et Camp** quelques exemples pour commencer...
 
----
++++
+
 ### Data sprint
 
----
++++
 
 ![Datasprint](img/DMI_2013.png)
 
----
++++
 
 **Digital Methods Initiative** (Janvier 2013)
 
@@ -35,57 +36,58 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 
 <span style="font-size:0.66em;color:#666;">*[Digital Methods Initiative Winter School2013](https://wiki.digitalmethods.net/Dmi/WinterSchool2013)*</span>
 
----
++++
 
 ![Emaps](img/emaps_sprint.png)
 
----
++++
+
 **EMAPS** (*Electronic Maps to Assist Public Science*) **Data sprint** (Janvier 2014)
 
 Rencontres interdisciplinaires / Projet Science-société <span style="font-size:0.66em">(Venturini, Munk et Meunier, 2016)</span>
 
 <span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
 
----
++++
 
 ### Hackathon
 
----
++++
 
 ![Wisc](img/wisc_hackathon.png)
 
----
++++
 
 **Center for Humanities** (Wisconsin University) (2012)
 
-« Humanities Hackathon : Computational Approaches to Cultural Analysis and Visualization ».  
+« Humanities Hackathon : Computational Approaches to Cultural Analysis and Visualization ».
 
 - Familiarisation avec de nouvelles méthodes <small>*(machine learning, network theory, topic modeling, advanced visualization and sound processing)*</small>
 
 
 <span style="font-size:0.66em;color:#666;">*[Wisc University ](https://wiscmusiccareer.wordpress.com/2012/06/21/humanities-hackathon-computational-approaches-to-cultural-analysis-and-visualization/)*</span>
 
----
++++
 
 -
 ![Hackrepnum](./img/hyphd_prez_repnum.png)
 
----
++++
 
 **Hackathon Recherche République Numérique** (Décembre 2015)
 
 <span style="font-size:0.66em;color:#666;">*[HackRepNum ](https://storify.com/HackYourPhd/hackrepnum)*</span>
 
 
----
++++
 
 ### THATCamp
 
----
++++
 
 ![THATCamp_France](./img/Thatcamp_France.png)
 
----
++++
 
 - 2008 : 1er THATCamp inspiré des *Barcamp*
 - 2010 : THATCamp en France : manifeste des Humanités Numériques
@@ -123,7 +125,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 #### Formats courts : des tensions aux inter-médiations ?
 
   - Que provoquent ces formats courts en sociologie ?
-  - Quelles tensions révèlent-ils dans ce contexte numérique ?  
+  - Quelles tensions révèlent-ils dans ce contexte numérique ?
   - Quelles adaptations au numérique peuvent-ils permettre d'accompagner en sociologie ?
 
 ==> *Comment ces formats courts questionnent-ils et participent-ils aux évolutions de la pratique sociologique en contexte numérique ?*
@@ -216,7 +218,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 ---?image=img/ACM-ICPC-1978.png&size=60
 
----
++++
 
 #### Les "Ancêtres"
 
@@ -237,7 +239,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 - **Sun Microsystem** (San Francisco)
 
----
++++
 
 
 **Open BSD** : Ambiance Hackathon "sit down and code"
@@ -245,19 +247,19 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 <span style="font-size:0.66em;color:#666;">*[Open BSD ](ARAJOUTER)*</span>
 ![Def_hackathon](./img/hackahton_open_BSD.png)
 
----
++++
 
 <span style="font-size:0.66em;color:#666;">*[Open BSD ](ARAJOUTER)*</span>
 ![OpenBSDFirst](./img/hackathon_openBSD_first.png)
 
----
++++
 
 "Shut up and hack" "taking action in the source tree"
 
 <span style="font-size:0.66em;color:#666;">*[Open BSD ](ARAJOUTER)*</span>
 ![OpenBSD_Tshirt](./img/hackathon_openBSD_tshirt.png)
 
-----
+---
 
 **Sun Microsystem** (San Francisco)
 
@@ -299,7 +301,8 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
   - 2006 : 1er BarCamps
   - Autres noms tombés en désuétude : Yullbiz, Mashpit, etc.
 
----
+
++++
 
 #### En France :
 
@@ -309,18 +312,20 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 ---?image=img/hackthepress_owni.png&size=50
 
----
++++
+
 #### En France :
 
 **#HackingParis2024** (2016)
 
 <span style="font-size:0.66em;color:#666;">*[HackingParis](https://www.hackinghoteldeville.paris/fr/)*</span>
 
----
++++
 
 ![HackingParis](img/hacking_hotel_ville.png)
 
 ---
+
 #### Notre préféré !
 
 <span style="font-size:0.66em;color:#666;">*[Hackacon Paris ](https://motherboard.vice.com/fr/article/a3zn74/au-coeur-de-linnovation-stupide-avec-les-participants-du-premier-hackacon-de-paris)*</span>
@@ -328,6 +333,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 
 ---
+
 #### En Recherche :
 
 <p style="text-align:left">HackingEbola, Brainhack, etc.</p>
@@ -342,6 +348,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 ![Hackrepnum](./img/hyphd_prez_repnum.png)
 
 ---
+
 ### Exploration de trois mises en tension en sociologie
 
 - #HackRepNum
@@ -426,6 +433,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 ---?image=img/Proulx_quote.png&size=auto
 
 ---
+
 #### Retour sur le numéro "sociologies numériques critiques"
 
 
@@ -442,7 +450,7 @@ Sociologie & SociétéS ==> Sociologie*S* et sociétéS
 - Notion de dispositif ?
 - Méthodologie (attente des critiques)
 - Structure de l'article (deux parties)
-- Notre propre posture de recherche et implication  
+- Notre propre posture de recherche et implication
 
 ---
 
