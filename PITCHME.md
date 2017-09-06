@@ -20,8 +20,7 @@ Apparition de nouveaux "formats-courts"  en SHS associés aux recherches numéri
 
 **Hackathon, Data Sprint et Camp** quelques exemples pour commencer...
 
-+++
-
+---
 ### Data sprint
 
 +++
@@ -48,7 +47,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 <span style="font-size:0.66em;color:#666;">*[Blog Emaps Project](http://www.emapsproject.com/blog/archives/2244)*</span>
 
-+++
+---
 
 ### Hackathon
 
@@ -79,7 +78,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 <span style="font-size:0.66em;color:#666;">*[HackRepNum ](https://storify.com/HackYourPhd/hackrepnum)*</span>
 
 
-+++
+---
 
 ### THATCamp
 
@@ -116,7 +115,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 <span style="font-size:0.66em">Le métier de sociologue (Bourdieu Pierre, Chamboredon Jean-Claude et Passeron Jean-Claude, 1983)</span>
 
----
++++
 
 ![Yogeekons_Uhalde](./img/Uhalde_quote.png)
 
@@ -203,8 +202,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 - Rapport au collectif en sociologie
 -
 ---
-
-#### 2- Exploration de trois mises en tension en sociologie
+**Trois mises en tension :** 
 
 - Temps de la recherche
 - Production des savoirs
@@ -239,8 +237,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 
 - **Sun Microsystem** (San Francisco)
 
-+++
-
+---
 
 **Open BSD** : Ambiance Hackathon "sit down and code"
 
@@ -280,7 +277,8 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 <span style="font-size:0.66em;color:#666;">*[Agile manifesto](http://agilemanifesto.org/)*</span>
 
 
----?image=img/agile_manifesto.png&size=60
++++?image=img/agile_manifesto.png&size=60
+
 ---
 
 #### 2000-... : Généralisation dans les milieux informatiques
