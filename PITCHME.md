@@ -216,7 +216,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 ### Brève généalogie des formats courts
 
 
----?image=img/ACM-ICPC-1978.png&size=60
++++?image=img/ACM-ICPC-1978.png&size=60
 
 +++
 
@@ -229,7 +229,7 @@ Recherche documentaire et enquête auprès d'acteurs du milieu (les "débuts" en
 - **Scene Demo and LAN Party** (Local Area Network) (DATE)
 
 
----?image=img/assembly04_wiki.png&size=60
++++?image=img/assembly04_wiki.png&size=60
 
 ---
 
