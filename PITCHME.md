@@ -452,13 +452,15 @@ Sociologie & SociétéS ==> Sociologie*S* et sociétéS
 
 ---
 
-### Les mots de la fin...
+### Le mot de la fin...
 
 ---
+<span style="font-size:0.66em;color:#666;">*[Hypochondriapp ](http://hypochondriapp.io/)*</span>
+![hypochondriapp](./img/hypochondriapp.png)
+
++++
 
 <span style="font-size:0.66em;color:#666;">*[Trumpocalypse  ](http://rossgoodwin.com/trumpocalypse/)*</span>
 ![Proulx_quote](./img/trumpocalypse.png)
 
 ---
-<span style="font-size:0.66em;color:#666;">*[Hypochondriapp ](http://hypochondriapp.io/)*</span>
-![hypochondriapp](./img/hypochondriapp.png)
