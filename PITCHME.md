@@ -362,7 +362,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 - **Tensions :** méthode accélérée versus *slow science*
 
 ---
-#### 1- De l’effet sprint à la course de fond
+#### De l’effet sprint à la course de fond
 
 <p style="text-align:left"> **Une préparation longue en amont** :</p>
 
@@ -381,7 +381,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 ---
 
-#### 2- D’autres sociologies sont possibles
+#### D’autres sociologies sont possibles
 
 <p style="text-align:left"> **Dans la lignée des postures participatives** :</p>
   - Science en société <span style="font-size:0.66em">(Bonneuil, Joly, 2013)</span>
@@ -407,7 +407,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 ---
 
-#### 3- Collectif de recherche recomposé autour des data
+#### Collectif de recherche recomposé autour des data
 
 
 <p style="text-align:left"> Un moyen d'éprouver les data :</p>
