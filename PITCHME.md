@@ -135,7 +135,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 ##### Le numérique et ses recompositions
 
----
++++
 
 #### Sociologie du Web/Numérique  :
 
@@ -143,7 +143,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 - Effet de levier pour réorganisations sociales, économiques, politiques, etc. <span style="font-size:0.66em">(Proulx, 2005)</span>
 - Utopies/Dystopies et imaginaires numériques <span style="font-size:0.66em">(Loveluck, 2015 ; Turner 2012)</span>
 
----
++++
 
 #### Numérique & SHS
 
@@ -152,7 +152,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
 
 ==> transformation des pratiques, des objets de recherche mais aussi des collectifs de recherche
 
----
++++
 
 #### Comprendre les processus à l'oeuvre
 
@@ -162,7 +162,7 @@ Rencontres interdisciplinaires / Projet Science-société <span style="font-size
   - Open et administration (Open Data) <span style="font-size:0.66em">(Denis & Goëta, 2013 )</span>
   - FabLabs : principe de *soft hacking* (processus d'institutionalisation) <span style="font-size:0.66em">(Lhoste & Barbier, 2016)</span>
 
----
++++
 
 #### Adoption/adaptation et processus d'inter~médiations
 
