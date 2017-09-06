@@ -281,12 +281,12 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 ---
 
-#### 2000-... : Généralisation dans les milieux informatiques
-
-- Cycles courts et mini-objectifs
+**Adaptation aux formats-courts:**
+- Cycles courts vs cycle V
+- Mini-objectifs vs plan de développement
 - Valeurs : logiciels opérationnels, interaction avant résultats, collaboration, flexibilité
 
-==> Hackathon, sprint : nouvelle méthode et libération des pratiques industrielles (agile vs cycle V) <span style="font-size:0.66em">(Boltanski & Chiapello, 1999)</span>
+==> évolution des modes d'organisation en milieu industriel  <span style="font-size:0.66em">(Boltanski & Chiapello, 1999)</span>
 
 ---
 
@@ -308,7 +308,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 <span style="font-size:0.66em;color:#666;">*[Owni.fr](http://owni.fr/2010/09/27/battle-hackthepress-design-technologie-journalisme/index.html)*</span>
 
----?image=img/hackthepress_owni.png&size=50
++++?image=img/hackthepress_owni.png&size=50
 
 +++
 
@@ -428,7 +428,7 @@ Gestion de projets en programmation : SCRUM et XP Extreme Programming
 
 <span style="font-size:0.66em;color:#666;">*[Proulx S., 1984, « Présentation : L’informatisation : mutation technique, changement de société ? », Sociologie et sociétés, 16, 1, p. 3‑12.  ](http://yogeekons.tumblr.com/search/informatisation)*</span>
 
----?image=img/Proulx_quote.png&size=auto
++++?image=img/Proulx_quote.png&size=auto
 
 ---
 
